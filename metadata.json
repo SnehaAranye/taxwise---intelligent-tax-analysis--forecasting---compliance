@@ -1,0 +1,6 @@
+{
+  "name": "TaxWise - Intelligent Tax Analysis, Forecasting & Compliance",
+  "description": "Enterprise tax intelligence, liability forecasting, compliance monitoring, risk scoring, and tax strategy simulation platform for financial analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
