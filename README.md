@@ -1,0 +1,2 @@
+# taxwise---intelligent-tax-analysis--forecasting---compliance
+TaxWise is an intelligent tax analysis, forecasting, and compliance platform that helps users manage financial data, calculate tax liabilities, analyze income and expenses, and generate insights. It provides dashboards, tax calculations, forecasting, reports, and compliance support to simplify planning, reduce effort, and enable better decisions.
